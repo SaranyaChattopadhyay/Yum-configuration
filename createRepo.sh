@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 mkdir /dvd
 mount /dev/cdrom /dvd
 echo "mount /dev/cdrom" >> /etc/rc.d/rc.local
